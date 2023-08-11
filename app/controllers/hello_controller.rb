@@ -1,4 +1,4 @@
-class HelloController < ApplicationController
+class HlloController < ApplicationController
   def index
   end
 end
